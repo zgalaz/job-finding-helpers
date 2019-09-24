@@ -1,0 +1,7 @@
+{
+  "email_address": "sender@gmail.com",
+  "email_password": "123abc",
+  "display_name": "Receiver",
+  "server": "smtp.gmail.com",
+  "port": 123
+}
